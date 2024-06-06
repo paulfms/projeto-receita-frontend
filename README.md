@@ -26,4 +26,4 @@ O Projeto Página de Receita do <b>MBA Fullstack Rocketseat</b>, tem como objeti
 
 Rocketseat e Sirius,
 
-Agradeço a paciência e todo o cuidado que a <b> Rocketseat </b> tem em oferece o melhor em aprendizado e também muito obrigado ao instrutor e orientador <b> Mayk Brito </b> por esse primeiro módulo com conteúdos ricos em conceitos e didáticas fantásticas.
+Agradeço todo o cuidado que a <b> Rocketseat </b> tem em oferecer o melhor em aprendizado em desenvolvimento web e também muito obrigado ao instrutor e orientador <b> Mayk Brito </b> por esse primeiro módulo com conteúdos ricos em conceitos e didática fantástica.
